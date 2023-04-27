@@ -1,0 +1,17 @@
+.toUp {
+position: 'fixed';
+bottom: 50;
+right: 30;
+border-radius: 50%;
+cursor: 'pointer';
+transition-duration: '0.2s';
+transition-timing-function: 'linear';
+transition-delay: '0s';
+}
+
+.toUp:hover,
+.toUp:focus {
+    background-color: #471CA9;
+    fill: white;
+    border: solid 1px #471CA9;
+}

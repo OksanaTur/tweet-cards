@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    max-width: 1600px;
+    justify-content: center;
+    align-items: center;
+    background: rgb(230, 191, 236);
+        
+}
+
+.text {
+    font-family:  "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #370d99;
+    padding: 10px;
+    text-align: center;
+}
