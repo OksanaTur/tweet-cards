@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[692],{1692:function(e,t,a){a.r(t),a.d(t,{default:function(){return o}});var c="HomePage_container__S-kOo",n="HomePage_text__l0cML",r=a(184);function o(){return(0,r.jsx)("div",{className:c,children:(0,r.jsx)("p",{className:n,children:"Welcome to GO TWEETS!"})})}}}]);
+//# sourceMappingURL=692.767ea795.chunk.js.map
